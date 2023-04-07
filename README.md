@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"><a href="#">Zakariae BEN ALLALZ</a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+
+ 
+
+<p align="center">
+<strong>Full stack engineer</strong>
+</p>
+
+ 
+
+## 📈 Stats
+
+ 
+
+<p align=center>
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=benallalzakariae&show_icons=true&theme=tokyonight" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benallalzakariae&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
