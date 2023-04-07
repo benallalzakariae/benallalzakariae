@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><a href="#">Zakariae BEN ALLAL</a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center"><a href="#">Zakariae BEN ALLAL</a> </h1>
 
  
 
