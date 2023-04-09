@@ -19,15 +19,19 @@ Here are some ideas to get you started:
 
  
 
-<p align="center">
+<h1 align="center">
 <strong>Full stack engineer</strong>
-</p>
+</h1>
 
+- 🔭 I’m currently working on new Architecture for Java and Javascript
+- 🌱 I’m currently learning Java new versions
+- 👯 I’m looking to collaborate on new projects or startups
+- 📫 How to reach me:  
+    -  Twitter : AI Developer Code 🐦 ([@AIDeveloperCode](https://twitter.com/AIDeveloperCode)) or Zakariae BEN ALLAL 🐦 ([@zakariaebenalla](https://twitter.com/zakariaebenalla))
+    -  Linkedin : Zakariae BEN ALLAL ([@zakariaebenalla](https://www.linkedin.com/in/zakariaebenallal))
+- ⚡ Fun fact: coding, coding and coding
  
-
-## 📈 Stats
-
- 
+# 📈 Stats
 
 <p align=center>
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=benallalzakariae&show_icons=true&theme=tokyonight" />
